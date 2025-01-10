@@ -22,6 +22,7 @@ This appears to be the HC89S105K8, here's the info about it
 | HC89S105S8  | 64K  | 256+2K  | 41  | 16bit*2 | 12bit*3 group | 23*2 | 15  | 2   | 1   | 2    | 1   | 1   | 2.0~5.5V    | -40~+85℃     | LQFP44  |
 | HC89S105K8  | 64K  | 256+2K  | 29  | 16bit*2 | 12bit*3 group | 17*2 | 13  | 2   | 1   | 2    | 1   | 1   | 2.0~5.5V    | -40~+85℃     | LQFP32  |
 
+The flash memory can be password protected, which might mean this is a non-starter, sadly. I am interested to see if I can flash program it though!
 
 ## Motor Controllers?
 These appear to be the motor controllers used: http://www.rz-mic.com/uploadfile/fj/201810310720.pdf
